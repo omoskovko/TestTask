@@ -1,0 +1,8 @@
+yahoo.com
+amazon.com
+cnn.com
+msn.com
+ebay.com
+unknown.com
+sitethatcantbefound.com
+https://google.com
